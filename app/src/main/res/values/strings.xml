@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidApp_Layout</string>
+    <string name="name">Breno Martins</string>
+    <string name="yellow_star">Yellow Star</string>
+    
+    <string name="bio">Hi, my name is Breno
+        \n\nI love study and development apps on Android
+        \n\nThis is my first activity about me</string>
+    <string name="what_is_your_nick_name">What is yout nick name</string>
+    <string name="done">Done</string>
+
+
+</resources>
