@@ -2,7 +2,7 @@
 
 In this app are working:
 
-Fundamental notions in TextView, as well as styling.
-Using the ScrollView,
-Done button,
-Data connection: views / data.
+Fundamental notions in TextView, as well as styling.<br>
+Using the ScrollView,<br>
+Done button,<br>
+Data connection: views / data.<br>
